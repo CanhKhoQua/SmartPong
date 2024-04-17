@@ -38,5 +38,5 @@
 
 ## SmartPong Flowchart
 <p align="center">
-  <img width="700" alt="SmartPong_FlowChart" src="https://github.com/CanhKhoQua/SmartPong/assets/111905138/4b275791-31c0-4259-b9fa-e4a1bf665484" align="center">
+  <img width="700" alt="SmartPong_FlowChart" src="Image/SmartPong_FlowChart.png" align="center">
 </p>
